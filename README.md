@@ -1,0 +1,1 @@
+A Machine Learning–based web application that predicts an employee’s salary based on input features such as experience, education, and skills. The app provides instant predictions through a simple and interactive user interface.
